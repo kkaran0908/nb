@@ -2,6 +2,7 @@ numpy
 pandas
 scipy
 seaborn
+astroML
 folium
 matplotlib
 datascience
